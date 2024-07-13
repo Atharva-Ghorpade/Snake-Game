@@ -1,5 +1,13 @@
-<h1>Snake Game</h1>
-<p>Snake game using Python turtle module</p>
+# Snake Game
 
-<p><b>Run main.py!</b></p>
-<p>Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> to control the snake.</p>
+A classic Snake game implemented using the Python **turtle** module.
+
+## Getting Started
+
+### How to Run
+
+1. **Run `main.py`:** Execute the main script to start the game.
+
+   ```bash
+   python main.py
+
